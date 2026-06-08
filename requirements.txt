@@ -1,0 +1,8 @@
+torch>=2.0.0
+transformers>=4.40.0
+PyTDC
+scikit-learn
+numpy
+pandas
+matplotlib
+tqdm
